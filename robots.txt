@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: 
-
-Sitemap: http://webdesign.toscana.it/sitemap.xml
